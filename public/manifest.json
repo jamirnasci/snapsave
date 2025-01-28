@@ -1,0 +1,16 @@
+{
+  "name": "Snap Save",
+  "short_name": "Snap Save",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fdfdfd",
+  "theme_color": "#db4938",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/img/favicon.png",
+      "type":"image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
