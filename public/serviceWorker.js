@@ -6,6 +6,8 @@ const assets = [
   "/img/facebook.png",
   "/img/favicon.png",
   "/img/instagram.webp",
+  "/img/app-screenshot.png",
+  "/img/app-screenshot-wide.png",
   "/img/yt.png"
 ]
 

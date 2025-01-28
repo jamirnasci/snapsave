@@ -15,11 +15,18 @@
   ],
   "screenshots":[
     {
-      "src": "/img/app-screenshot.png",
-      "sizes": "486x645",
+      "src": "/img/app-screenshot-wide.png",
+      "sizes": "1337x655",
       "type": "image/png",
       "form_factor": "wide",
       "label": "Application"
+     },
+     {
+      "src": "/img/app-screenshot.png",
+      "sizes": "486x645",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Application Potrait"
      }
   ]
 }
